@@ -1,0 +1,366 @@
+
+
+
+
+.mission {
+	color: darkred;
+	font-family: 'Pinyon Script', cursive;
+	text-align: center;
+	padding-top: 30px;
+
+}
+
+.logo {
+	width: 40px;
+	
+}
+
+.navi {
+
+	font-size: 16px;
+	color: antiquewhite;
+	text-decoration: none;
+}
+
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	list-style-type: none;
+}
+
+
+.contact-button {
+	color: black;
+}
+
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 30px 10%;
+	border: 2px solid floralwhite;
+}
+
+.nav_links {
+	font-size: 16px;
+	color: antiquewhite;
+	text-decoration: none;
+
+}
+
+.nav_links li {
+	display: inline-block;
+	padding: 0px 20px;
+	text-decoration: none;
+}
+
+button {
+	padding: 9px 25px;
+	backgound-color: blue;
+	border: none;
+	border-radius: 50px;
+}
+	body {
+		min-height: 2000px;
+		background: url(back.jpg);
+	
+	}
+
+	.nav {
+    display: inline;
+	padding: 8px;
+	font-size: 17px;
+	text-decoration: none;
+	position: sticky;
+	text-align: right;
+}
+
+	.container1 {
+		display: inline-block;
+		width: 900px;
+		margin-left: 288px;
+	
+
+	}
+
+	.item {
+		display: inline-block;
+		Vertical-align: top;
+		margin: 10px;
+		
+		
+
+	}
+
+	.item-1 {
+		Vertical-align: top;
+		display: inline-block;
+		min-height: 100px;
+		justify-content: center;
+	}
+
+	.item-2 {
+		Vertical-align: top;
+		display: inline-block;
+		min-height: 200px;
+		width: 600px;
+		padding: 20px;
+		line-height: 26px;
+		background-color: floralwhite;
+		border: 2px solid black;
+
+	}
+
+
+	#poto1 {
+		
+		width: 160px;
+		border: 2px solid black;
+
+		}
+
+	.notes-1 {
+		width: 900px;
+		min-height: 100px;
+		margin-left: 298px;
+		border: 2px solid black;
+		background-color: floralwhite;
+	}
+
+	.contact-button:hover {
+		background-color: lightblue;
+		cursor: pointer;
+
+	}
+
+	.small-title {
+		padding-left: 180px ;
+	}
+
+
+	.notes-general-1 {
+
+		padding: 20px;
+		font-family: 'Cormorant', serif;
+	
+	}
+
+	.notes-general-2 {
+		padding :20px;
+
+		
+font-family: 'Pinyon Script', cursive;
+
+	}
+
+	.video-1 {
+		margin-left: 298px;
+		margin-top: 20px;
+	}
+
+	#video-title-1 {
+
+		text-align: center;
+		width: 884px;
+		font-family: 'Cormorant', serif;
+		font-size: 16px;
+		background-color: floralwhite;
+		padding: 10px;
+		border: 2px solid black;
+	}
+
+
+
+
+	.exercise-1 {
+		display: inline-block;
+		padding: 10px;
+		background-color: floralwhite;
+		border: 2px solid ghostwhite;
+		margin-top: 10px;
+	}
+
+	.image-1 {
+		width: 200px;
+	}
+	#cat-name {
+		font-weight: bold;
+		font-family: arial;
+		font-size: 15px;
+		margin-bottom: 5px;
+	}
+
+	#cat-friends {
+		font-family: arial;
+		font-size: 12px;
+		color: dimgray;
+		margin-top: 5px;
+		margin-bottom: 5px;
+
+	}
+
+	#add-friend {
+		margin-top: 5px;
+		margin-bottom: 5px;
+		display: inline-block;
+		color: white;
+		background-color: rgb(54, 115, 214);
+		padding: 10px;
+		padding-left: 15px;
+		padding-right: 15px;
+		border-radius: 5px;
+	}
+
+	#add-friend:hover {
+		cursor: pointer;
+		opacity: 0.8;
+
+	}
+
+	#add-friend:active {
+		opacity: 0.3;
+	}
+
+
+	.footer {
+		background-color: floralwhite;
+		margin-top: 40px;
+		padding-top: 20px;
+		padding-bottom: 50px;
+		border-radius: 2px;
+
+
+		
+
+	}
+
+	.orange-square {
+		height: 80px;
+		background-color: rgb(207, 154, 41);
+		margin-top: 25px;
+		margin-left: 25px;
+		margin-right: 25px;
+		margin-bottom: 50px;
+	}
+
+	.box-1 {
+		display: inline-block;
+		Vertical-align: top;
+		margin-top: 30px;
+		margin-left: 50px;
+	}
+
+	.subscribe {
+		font-size: 16px;
+		text-decoration: underline;
+	}
+
+	.copyrights {
+		color: rgb(196, 195, 188);
+	}
+
+	.box-2 {
+		display: inline-block;
+		Vertical-align: top;
+		margin-top: 30px;
+		margin-left: 300px;
+	}
+	.footer-button {
+		background-color: rgb(114, 137, 161);
+		border-radius: 50%;
+		border: none;
+  		color: white;
+  		padding: 20px;
+  		text-decoration: center;
+  		text-decoration: none;
+  		display: inline-block;
+  		font-size: 16px;
+  		margin: 4px 2px;
+	}
+
+	.email {
+		text-decoration: underline;
+		color: rgb(168, 25, 25);
+	}
+
+	.box-3 {
+		display: inline-block;
+		Vertical-align: top;
+		margin-top: 30px;
+		margin-left: 300px;
+	}
+
+	.top {
+
+		display: inline-block;
+	}
+
+	.top-image {
+
+		margin-left: 40px;
+	}
+
+	.code-design {
+		color: rgb(192, 194, 196);
+		margin-top: 60px;
+	}
+
+	.designer {
+		color: rgb(255, 223, 0);
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+

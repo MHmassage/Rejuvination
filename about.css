@@ -1,0 +1,253 @@
+.logo {
+	width: 40px;
+	
+}
+
+.navi {
+
+	font-size: 16px;
+	color: antiquewhite;
+	text-decoration: none;
+}
+
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	list-style-type: none;
+}
+
+
+.contact-button {
+	color: black;
+}
+
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 30px 10%;
+	background: url(background.png);
+}
+
+.nav_links {
+	font-size: 16px;
+	color: antiquewhite;
+	text-decoration: none;
+
+}
+
+.nav_links li {
+	display: inline-block;
+	padding: 0px 20px;
+	text-decoration: none;
+}
+
+button {
+	padding: 9px 25px;
+	backgound-color: blue;
+	border: none;
+	border-radius: 50px;
+}
+	body {
+		background: url(back.jpg);
+	
+	}
+
+	.nav {
+    display: inline;
+	padding: 8px;
+	font-size: 17px;
+	text-decoration: none;
+	position: sticky;
+	text-align: right;
+}
+
+.about {
+	background-color: floralwhite;
+	width: 700px;
+	border: 2px solid black;
+	margin-left: 300px;
+	margin-top: 50px;
+	padding: 30px;
+}
+
+.massage-photo1 {
+	width: 500px;
+	margin-top: 30px;
+	margin-left: 435px;
+	border: 1px solid black;
+}
+
+a:active {
+	color: floralwhite;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer {
+		margin-top:400px;
+		background: url(background.png);
+		padding-top: 20px;
+		padding-bottom: 50px;
+		border-radius: 2px;
+		
+
+
+		
+
+	}
+
+	.orange-square {
+		height: 80px;
+		background-color: rgb(207, 154, 41);
+		margin-top: 25px;
+		margin-left: 25px;
+		margin-right: 25px;
+		margin-bottom: 50px;
+	}
+
+	.box-1 {
+		display: inline-block;
+		Vertical-align: top;
+		margin-top: 30px;
+		margin-left: 50px;
+	}
+
+	.footer-p1 {
+		color: floralwhite;
+	}
+
+	.subscribe {
+		font-size: 18px;
+		text-decoration: underline;
+		color: floralwhite;
+	}
+
+	.copyrights {
+		color: rgb(196, 195, 188);
+	}
+
+	.box-2 {
+		display: inline-block;
+		Vertical-align: top;
+		margin-top: 30px;
+		margin-left: 300px;
+	}
+	.footer-button {
+		background-color: rgb(114, 137, 161);
+		border-radius: 50%;
+		border: none;
+  		color: white;
+  		padding: 20px;
+  		text-decoration: center;
+  		text-decoration: none;
+  		display: inline-block;
+  		font-size: 16px;
+  		margin: 4px 2px;
+	}
+
+	.email {
+		
+		color: floralwhite;
+	}
+
+	.box-3 {
+		display: inline-block;
+		Vertical-align: top;
+		margin-top: 30px;
+		margin-left: 300px;
+	}
+
+	.top {
+
+		display: inline-block;
+		color: floralwhite;
+	}
+
+	.top-image {
+
+		margin-left: 40px;
+	}
+
+	.code-design {
+		color: rgb(192, 194, 196);
+		margin-top: 60px;
+	}
+
+	.designer {
+		color: rgb(255, 223, 0);
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
